@@ -1,7 +1,7 @@
 ## Hi GitHub! 👋
 # Sarah Dombroski
 
-I'm <Sarah>, a student at Brigham Young University-Idaho interested in computer science and web development. Welcome to my GitHub profile!
+I'm Sarah, a student at Brigham Young University-Idaho interested in computer science and web development. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -12,8 +12,8 @@ I'm <Sarah>, a student at Brigham Young University-Idaho interested in computer 
 
 ## Technologies and Tools
 
-- Proficient in: <C#, Python, HTML, CSS, JavaScript, SQL, C++, Java, and more!>
-- Skills: <Teachable, team player, willing to work hard, takes initiative, and more!>
+- Proficient in: C#, Python, HTML, CSS, JavaScript, SQL, C++, Java, and more!
+- Skills: Teachable, team player, willing to work hard, takes initiative, and more!
 
 ## Let's Connect!
 
