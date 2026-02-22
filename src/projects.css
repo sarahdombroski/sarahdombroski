@@ -1,0 +1,22 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+h1, h2, #projects > p, header > p {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+#gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+img {
+    width: 400px;
+    margin: 20px;
+}
